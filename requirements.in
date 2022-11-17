@@ -1,0 +1,7 @@
+black==22.10.0
+feedgen==0.8.0
+feedparser==6.0.10 
+flake8==5.0.4
+gitpython==3.1.29
+isort==5.10.1
+requests==2.28.1
