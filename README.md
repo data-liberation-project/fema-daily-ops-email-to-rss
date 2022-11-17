@@ -1,4 +1,4 @@
-# FEMA Daily Operations Briefing: Converting Email → RSS (→ CSV)
+# FEMA Daily Operations Briefing: Email → RSS (→ CSV)
 
 ## Introduction
 
