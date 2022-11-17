@@ -3,26 +3,40 @@ name: Fetch and process
 on:
   schedule:
     - cron: "*/30 * * * *"
+  workflow_dispatch:
   repository_dispatch:
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout the repo
+    - name: Check-out the repo
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        ref: main
 
     - name: Set up Python 3.10
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
-        cache: 'pip'
+        python-version: "3.10"
+        cache: "pip"
 
-    - name: Install Python requirements
-      run: pip install -r requirements.txt
+    - name: Install Python venv and requirements
+      run: make venv
+
+    - name: Configure git
+      run: git config --global user.name "Automated"; git config user.email "actions@users.noreply.github.com"
 
     - name: Fetch inbox feed, convert
       run: make run-feed
+      env:
+        FEED_URL: ${{ secrets.FEED_URL }}
+
 
     - name: Generate history file
       run: make run-history
+
+
+    - name: Push changes
+      run: git push
