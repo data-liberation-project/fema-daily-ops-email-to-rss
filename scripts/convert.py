@@ -71,7 +71,7 @@ def convert_feed(original):
     for key, val in feed_attrs.items():
         getattr(fg, key)(val)
 
-    for e in original.entries:
+    for e in reversed(original.entries):
         new_entry = fg.add_entry()
         for key, val in convert_entry(e).items():
             method = getattr(new_entry, key)
