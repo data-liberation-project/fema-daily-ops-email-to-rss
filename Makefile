@@ -1,4 +1,4 @@
-.PHONY: venv README.md output/feed.rss output/history.csv
+.PHONY: venv output/feed.rss output/history.csv
 
 requirements.txt: requirements.in
 	pip-compile requirements.in
@@ -15,9 +15,6 @@ lint:
 format:
 	venv/bin/black scripts
 	venv/bin/isort scripts
-
-README.md:
-	cog -r README.md
 
 output/feed.rss:
 	venv/bin/python scripts/convert.py $(FEED_URL) > output/feed.rss
