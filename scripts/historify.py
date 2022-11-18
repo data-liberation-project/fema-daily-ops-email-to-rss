@@ -1,7 +1,7 @@
 import argparse
 import csv
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 
 import feedparser
 import git
@@ -20,9 +20,8 @@ def iterate_file_versions(path, ref="main"):
     for commit in commits:
         for leaf in commit.tree.traverse():
             if isinstance(leaf, git.Blob) and leaf.path == path:
-                dt, offset = git.objects.util.parse_date(commit.committed_datetime)
-                dt_str = datetime.fromtimestamp(dt + offset).isoformat()
-                yield commit.hexsha, dt_str, leaf.data_stream
+                dt = commit.committed_datetime.astimezone(timezone.utc)
+                yield commit.hexsha, dt.isoformat(), leaf.data_stream
 
 
 def main():
@@ -42,11 +41,17 @@ def main():
             if entry.id in seen:
                 continue
 
+            commit_dt = (
+                datetime(*entry.published_parsed[:6])
+                .astimezone(timezone.utc)
+                .isoformat()
+            )
+
             writer.writerow(
                 [
                     sha,
                     dt,
-                    datetime(*entry.published_parsed[:6]).isoformat(),
+                    commit_dt,
                     entry.title,
                     entry.link,
                 ]
