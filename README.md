@@ -28,6 +28,10 @@ To make the information in the inbox publicly accessible without compromising th
 
 The (public and private) RSS feeds only contain the most recent 42 entries. The [`scripts/historify.py`](scripts/historify.py) script iterates through this git/GitHub repository’s history and generates a file of all unique entries, which is available as [`output/history.csv`](output/history.csv).
 
+## Notes
+
+- An apparent `kill-the-newsletter.com` outage resulted in missing emails/entries for January 11–13, 2023.
+
 ## Licensing
 
 The code in this repository is available under the [MIT License](https://choosealicense.com/licenses/mit/); the output files are available under the [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).
