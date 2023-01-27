@@ -8,13 +8,15 @@ To the Data Liberation Project’s best knowledge, FEMA does not publish these b
 
 The lack of an official, public-facing source for FEMA reports provides the motivation for this repository, which is the first step in what will be a more comprehensive processing pipeline.
 
-## Step 1: Collect Briefing Emails Into a Private RSS Feed
+## Pipeline
+
+### Step 1: Collect Briefing Emails Into a Private RSS Feed
 
 Using the service [kill-the-newsletter.com](https://kill-the-newsletter.com/), the Data Liberation Project has subscribed to FEMA’s Daily Operations Briefing emails. The service receives each email and makes its contents available as a private RSS feed.
 
 That feed’s address, however, must remain private; if it were public, someone could unsubscribe it from the newsletter and/or send spam to the inbox. So...
 
-## Step 2: Convert Private RSS Feed Into Public RSS Feed
+### Step 2: Convert Private RSS Feed Into Public RSS Feed
 
 To make the information in the inbox publicly accessible without compromising the inbox itself, the [`scripts/convert.py`](scripts/convert.py) Python script does the following:
 
@@ -22,7 +24,7 @@ To make the information in the inbox publicly accessible without compromising th
 - Extracts the necessary, non-private information: the time the email was received, the name of the PDF, and a link to the PDF file.
 - Writes a new, reformatted RSS feed, which is available as [`output/feed.rss`](output/feed.rss).
 
-## Step 3: Record RSS History as a CSV File
+### Step 3: Record RSS History as a CSV File
 
 The (public and private) RSS feeds only contain the most recent 42 entries. The [`scripts/historify.py`](scripts/historify.py) script iterates through this git/GitHub repository’s history and generates a file of all unique entries, which is available as [`output/history.csv`](output/history.csv).
 
