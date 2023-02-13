@@ -6,6 +6,7 @@ import sys
 import feedparser
 import requests
 from feedgen.feed import FeedGenerator
+from retry import retry
 
 BASE_ID = "data-liberation-project:fema-daily-ops-email-to-rss"
 HASH_SALT = "x#$+w3%~o;0~V+e'"
@@ -83,9 +84,15 @@ def convert_feed(original):
     return fg
 
 
+@retry(tries=4, delay=15)
+def fetch_feed(url):
+    return requests.get(url).content.decode("utf-8")
+
+
 def main():
     args = parse_args()
-    original = feedparser.parse(args.feed)
+    feed_content = fetch_feed(args.feed)
+    original = feedparser.parse(feed_content)
     converted = convert_feed(original)
     converted.rss_file(sys.stdout.buffer, pretty=True)
 
