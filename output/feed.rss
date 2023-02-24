@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Feb 2023 22:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2023 15:13:15 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 02-24-2023</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/02/24/file_attachments/2418814/FEMA%20Daily%20Ops%20Briefing%2002-24-2023.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/02/24/file_attachments/2418814/FEMA%20Daily%20Ops%20Briefing%2002-24-2023.pdf"&gt;FEMA Daily Ops Briefing 02-24-2023&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:a64c04474ee6d0c126b96ece6704d11351f21c46</guid>
+      <pubDate>Fri, 24 Feb 2023 15:13:15 +0000</pubDate>
+    </item>
     <item>
       <title>National SITREP 02-22-2023 PM</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/02/22/file_attachments/2416827/National%20SITREP%2002-22-2023%20PM.pdf</link>
@@ -301,13 +308,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/01/01/file_attachments/2367117/FEMA%20Daily%20Operations%20Briefing.pdf"&gt;FEMA Daily Operations Briefing&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:fb9c7a0fc6ceceedd732a7ad6f742d75c7988c27</guid>
       <pubDate>Sun, 01 Jan 2023 13:55:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 12-31-2022</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2022/12/31/file_attachments/2367047/FEMA%20Daily%20Ops%20Briefing%2012-31-2022.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2022/12/31/file_attachments/2367047/FEMA%20Daily%20Ops%20Briefing%2012-31-2022.pdf"&gt;FEMA Daily Ops Briefing 12-31-2022&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:9a86abf5cd24e662de21424ed54f80b7c1a6a283</guid>
-      <pubDate>Sat, 31 Dec 2022 13:56:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
