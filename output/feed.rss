@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Jun 2023 13:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jun 2023 13:07:09 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 06-22-2023</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/06/22/file_attachments/2534011/FEMA%20Daily%20Ops%20Briefing%2006-22-2023.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/06/22/file_attachments/2534011/FEMA%20Daily%20Ops%20Briefing%2006-22-2023.pdf"&gt;FEMA Daily Ops Briefing 06-22-2023&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:ce9bdccf6b4d61d14a85f948294d202486d9f3bf</guid>
+      <pubDate>Thu, 22 Jun 2023 13:07:09 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 06-21-2023</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/06/21/file_attachments/2532720/FEMA%20Daily%20Ops%20Briefing%2006-21-2023.pdf</link>
@@ -280,20 +287,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/05/12/file_attachments/2496332/FEMA%20Daily%20Ops%20Briefing%2005-12-2023.pdf"&gt;FEMA Daily Ops Briefing 05-12-2023&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:32054297b32789ad9eae445db94dab1df2c0fb87</guid>
       <pubDate>Fri, 12 May 2023 13:46:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 05-12-2023</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/05/12/file_attachments/2496253/FEMA%20Daily%20Ops%20Briefing%2005-12-2023.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/05/12/file_attachments/2496253/FEMA%20Daily%20Ops%20Briefing%2005-12-2023.pdf"&gt;FEMA Daily Ops Briefing 05-12-2023&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:3168f01126c7472033af63539a20d74b35c34db3</guid>
-      <pubDate>Fri, 12 May 2023 13:06:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 05-11-2023</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/05/11/file_attachments/2494860/FEMA%20Daily%20Ops%20Briefing%2005-11-2023.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/05/11/file_attachments/2494860/FEMA%20Daily%20Ops%20Briefing%2005-11-2023.pdf"&gt;FEMA Daily Ops Briefing 05-11-2023&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:eea8891e4a6088a4fcf22b8402dce88a0f87f299</guid>
-      <pubDate>Thu, 11 May 2023 13:24:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
