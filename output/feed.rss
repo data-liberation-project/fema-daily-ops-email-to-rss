@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Oct 2023 13:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 13:16:43 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 10-30-2023</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/10/30/file_attachments/2663799/FEMA%20Daily%20Ops%20Briefing%2010-30-2023.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/10/30/file_attachments/2663799/FEMA%20Daily%20Ops%20Briefing%2010-30-2023.pdf"&gt;FEMA Daily Ops Briefing 10-30-2023&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:462b4e804c4b1e4c2dbdb527a261cf5ad49a73da</guid>
+      <pubDate>Mon, 30 Oct 2023 13:16:43 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 10-29-2023</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/10/29/file_attachments/2663530/FEMA%20Daily%20Ops%20Briefing%2010-29-2023.pdf</link>
@@ -273,13 +280,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/09/20/file_attachments/2620120/FEMA%20Daily%20Ops%20Briefing%2009-20-2023.pdf"&gt;FEMA Daily Ops Briefing 09-20-2023&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:c27a5784289601c8e926ea9870a6d8e9ef40c685</guid>
       <pubDate>Wed, 20 Sep 2023 12:53:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 09-19-2023</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2023/09/19/file_attachments/2618605/FEMA%20Daily%20Ops%20Briefing%2009-19-2023.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2023/09/19/file_attachments/2618605/FEMA%20Daily%20Ops%20Briefing%2009-19-2023.pdf"&gt;FEMA Daily Ops Briefing 09-19-2023&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:14a1ca074d370a8bd80689567c9bdaf8c0e65d24</guid>
-      <pubDate>Tue, 19 Sep 2023 13:00:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
