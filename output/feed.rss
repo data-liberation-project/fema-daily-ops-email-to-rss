@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Mar 2024 13:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 13:03:56 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 03-13-2024</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/03/13/file_attachments/2812561/FEMA%20Daily%20Ops%20Briefing%2003-13-2024.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/03/13/file_attachments/2812561/FEMA%20Daily%20Ops%20Briefing%2003-13-2024.pdf"&gt;FEMA Daily Ops Briefing 03-13-2024&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:2aac1a4cdf210c4100969c1845d46750a97415d4</guid>
+      <pubDate>Wed, 13 Mar 2024 13:03:56 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 03-09-2024</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/03/09/file_attachments/2809202/FEMA%20Daily%20Ops%20Briefing%2003-09-2024.pdf</link>
@@ -294,13 +301,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/01/23/file_attachments/2757313/FEMA%20Daily%20Ops%20Briefing%2001-23-2024%20.pdf"&gt;FEMA Daily Ops Briefing 01-23-2024 &lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:a478dee2006e58600378008f589d3a6c69733be8</guid>
       <pubDate>Tue, 23 Jan 2024 14:03:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 01-22-2024 </title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/01/22/file_attachments/2755836/FEMA%20Daily%20Ops%20Briefing%2001-22-2024%20.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/01/22/file_attachments/2755836/FEMA%20Daily%20Ops%20Briefing%2001-22-2024%20.pdf"&gt;FEMA Daily Ops Briefing 01-22-2024 &lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:14be43d1f211eb4c79b45f74bb1b26083fda085a</guid>
-      <pubDate>Mon, 22 Jan 2024 14:03:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
