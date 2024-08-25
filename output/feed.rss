@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Aug 2024 12:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 13:46:33 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 08-25-2024</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/08/25/file_attachments/2977134/FEMA%20Daily%20Ops%20Briefing%2008-25-2024.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/08/25/file_attachments/2977134/FEMA%20Daily%20Ops%20Briefing%2008-25-2024.pdf"&gt;FEMA Daily Ops Briefing 08-25-2024&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:55a8658099ba3be50ed37876a6e76505df69214d</guid>
+      <pubDate>Sun, 25 Aug 2024 13:46:33 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 08-24-2024</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/08/24/file_attachments/2977055/FEMA%20Daily%20Ops%20Briefing%2008-24-2024.pdf</link>
@@ -413,20 +420,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/06/28/file_attachments/2921836/FEMA%20Daily%20Ops%20Briefing%2006-28-2024.pdf"&gt;FEMA Daily Ops Briefing 06-28-2024&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:85e83b12011e91f31389fc7a5ba75180c7ab3b4b</guid>
       <pubDate>Fri, 28 Jun 2024 12:50:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 06-27-2024</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/06/27/file_attachments/2920332/FEMA%20Daily%20Ops%20Briefing%2006-27-2024.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/06/27/file_attachments/2920332/FEMA%20Daily%20Ops%20Briefing%2006-27-2024.pdf"&gt;FEMA Daily Ops Briefing 06-27-2024&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:4c14fcc28aeace8c80d031c00c8ca9bdbf1b3eed</guid>
-      <pubDate>Thu, 27 Jun 2024 12:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 06-26-2024</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2024/06/26/file_attachments/2918967/FEMA%20Daily%20Ops%20Briefing%2006-26-2024.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2024/06/26/file_attachments/2918967/FEMA%20Daily%20Ops%20Briefing%2006-26-2024.pdf"&gt;FEMA Daily Ops Briefing 06-26-2024&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:18d53c6966b8886d70ee350a25c55e9e0bdd0a2c</guid>
-      <pubDate>Wed, 26 Jun 2024 12:54:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
