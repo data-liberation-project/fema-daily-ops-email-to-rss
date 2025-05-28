@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 May 2025 12:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 12:52:58 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 05-28-2025</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/28/file_attachments/3273685/FEMA%20Daily%20Ops%20Briefing%2005-28-2025.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/28/file_attachments/3273685/FEMA%20Daily%20Ops%20Briefing%2005-28-2025.pdf"&gt;FEMA Daily Ops Briefing 05-28-2025&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:cd4ba3412b482b3bdcb417c0658d2aa2c6e907e9</guid>
+      <pubDate>Wed, 28 May 2025 12:52:58 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 05-27-2025</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/27/file_attachments/3272313/FEMA%20Daily%20Ops%20Briefing%2005-27-2025.pdf</link>
@@ -518,13 +525,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/03/16/file_attachments/3197659/FEMA%20Daily%20Ops%20Briefing%2003-16-2025.pdf"&gt;FEMA Daily Ops Briefing 03-16-2025&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:09a14df0fa7d669fdef45f04d30fea78be01356b</guid>
       <pubDate>Sun, 16 Mar 2025 12:47:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 03-15-2025</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/03/15/file_attachments/3197437/FEMA%20Daily%20Ops%20Briefing%2003-15-2025.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/03/15/file_attachments/3197437/FEMA%20Daily%20Ops%20Briefing%2003-15-2025.pdf"&gt;FEMA Daily Ops Briefing 03-15-2025&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:c11b8ca7b17f4b591fb35ae38dffaa91c652b5bc</guid>
-      <pubDate>Sat, 15 Mar 2025 12:46:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
