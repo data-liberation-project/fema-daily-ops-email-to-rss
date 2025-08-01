@@ -7,7 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Jul 2025 13:30:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 13:16:05 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 08-01-2025</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/08/01/file_attachments/3340859/FEMA%20Daily%20Ops%20Briefing%2008-01-2025.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/08/01/file_attachments/3340859/FEMA%20Daily%20Ops%20Briefing%2008-01-2025.pdf"&gt;FEMA Daily Ops Briefing 08-01-2025&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:69e4ca2ecb4c7a810e79da4abca79feb2fb792bd</guid>
+      <pubDate>Fri, 01 Aug 2025 13:16:05 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 07-31-2025</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/07/31/file_attachments/3339596/FEMA%20Daily%20Ops%20Briefing%2007-31-2025.pdf</link>
@@ -490,20 +497,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/27/file_attachments/3272313/FEMA%20Daily%20Ops%20Briefing%2005-27-2025.pdf"&gt;FEMA Daily Ops Briefing 05-27-2025&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:b2e5d2579eb3d47fdcdc29c4712bd090e117ca0b</guid>
       <pubDate>Tue, 27 May 2025 12:47:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 05-26-2025</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/26/file_attachments/3271995/FEMA%20Daily%20Ops%20Briefing%2005-26-2025.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/26/file_attachments/3271995/FEMA%20Daily%20Ops%20Briefing%2005-26-2025.pdf"&gt;FEMA Daily Ops Briefing 05-26-2025&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:e607bd1a5d94f61b24e011684c1b2d98520cc683</guid>
-      <pubDate>Mon, 26 May 2025 12:34:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 05-25-2025</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/25/file_attachments/3271837/FEMA%20Daily%20Ops%20Briefing%2005-25-2025.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2025/05/25/file_attachments/3271837/FEMA%20Daily%20Ops%20Briefing%2005-25-2025.pdf"&gt;FEMA Daily Ops Briefing 05-25-2025&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:3768b8d7a910f9e9e840421ec5be55333caa8ee2</guid>
-      <pubDate>Sun, 25 May 2025 12:34:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
