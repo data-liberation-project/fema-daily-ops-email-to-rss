@@ -18,13 +18,17 @@ def parse_args():
     return parser.parse_args()
 
 
+class NoDocumentWarning(Warning):
+    pass
+
+
 def get_entry_attachment(e):
     pat = r'"(?P<link>http[^"]+?)"[^>]*>(?P<title>[^<]+?)\.pdf'
 
     match = re.search(pat, e.description)
 
     if not match:
-        raise ValueError(f"Cannot find document link in entry {e.title}\n")
+        raise NoDocumentWarning(f"Cannot find document link in entry {e.title}")
 
     link, title = match.groups()
     link_head = requests.head(link)
@@ -35,7 +39,7 @@ def get_entry_attachment(e):
 
 def convert_entry(e):
     link, title = get_entry_attachment(e)
-    hash_payload = f"{e.id}:{HASH_SALT}".encode("utf-8")
+    hash_payload = f"{e.id}:{HASH_SALT}".encode("utf-8")  # noqa
     new_id = hashlib.sha1(hash_payload).hexdigest()
     return dict(
         id=BASE_ID + ":" + new_id,
@@ -73,8 +77,14 @@ def convert_feed(original):
         getattr(fg, key)(val)
 
     for e in reversed(original.entries):
+        try:
+            converted = convert_entry(e)
+        except NoDocumentWarning as e:
+            sys.stderr.write(repr(e) + "\n")
+            continue
+
         new_entry = fg.add_entry()
-        for key, val in convert_entry(e).items():
+        for key, val in converted.items():
             method = getattr(new_entry, key)
             if isinstance(val, dict):
                 method(**val)
