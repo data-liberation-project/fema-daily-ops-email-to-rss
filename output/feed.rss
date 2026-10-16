@@ -7,7 +7,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:12:40 +0000</lastBuildDate>
+    <item>
+      <title>FEMA Daily Ops Briefing 10-16-2026</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2026/10/16/file_attachments/3819846/FEMA%20Daily%20Ops%20Briefing%2010-16-2026.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2026/10/16/file_attachments/3819846/FEMA%20Daily%20Ops%20Briefing%2010-16-2026.pdf"&gt;FEMA Daily Ops Briefing 10-16-2026&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:7ab92dc8a176515d3e00fe69c30b8396d77ba02c</guid>
+      <pubDate>Fri, 16 Oct 2026 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>National SITREP 10-15-2026 PM</title>
+      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2026/10/15/file_attachments/3819260/National%20SITREP%2010-15-2026%20PM.pdf</link>
+      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2026/10/15/file_attachments/3819260/National%20SITREP%2010-15-2026%20PM.pdf"&gt;National SITREP 10-15-2026 PM&lt;/a&gt;</description>
+      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:0924da5974d67c712d50a6fedf544ae919b443a7</guid>
+      <pubDate>Thu, 15 Oct 2026 20:58:09 +0000</pubDate>
+    </item>
     <item>
       <title>FEMA Daily Ops Briefing 10-15-2026</title>
       <link>https://content.govdelivery.com/attachments/USDHSFEMA/2026/10/15/file_attachments/3818149/FEMA%20Daily%20Ops%20Briefing%2010-15-2026.pdf</link>
@@ -210,13 +224,6 @@
       <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2026/09/17/file_attachments/3783560/FEMA%20Daily%20Ops%20Briefing%2009-17-2026.pdf"&gt;FEMA Daily Ops Briefing 09-17-2026&lt;/a&gt;</description>
       <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:15c20e83fc81b6b26381821121d263e32ab2db6e</guid>
       <pubDate>Thu, 17 Sep 2026 12:58:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>FEMA Daily Ops Briefing 09-16-2026</title>
-      <link>https://content.govdelivery.com/attachments/USDHSFEMA/2026/09/16/file_attachments/3782173/FEMA%20Daily%20Ops%20Briefing%2009-16-2026.pdf</link>
-      <description>&lt;a link="https://content.govdelivery.com/attachments/USDHSFEMA/2026/09/16/file_attachments/3782173/FEMA%20Daily%20Ops%20Briefing%2009-16-2026.pdf"&gt;FEMA Daily Ops Briefing 09-16-2026&lt;/a&gt;</description>
-      <guid isPermaLink="false">data-liberation-project:fema-daily-ops-email-to-rss:8dc2a4fe489522f2c1432c876e8e92321881de23</guid>
-      <pubDate>Wed, 16 Sep 2026 13:29:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
